@@ -1,2 +1,2 @@
 # lextension
-The static github website for the Lextension Web Application
+The Static Github Website for the Lextension Web Application
