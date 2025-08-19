@@ -55,7 +55,7 @@ Error generating stack: `+a.message+`
   border-radius: 12px;
   color: ${i=>i.$textColor};
   box-shadow: 0 3px ${i=>i.$secondaryColor};
-  transition: transform 60ms, box-shadow 60ms, background-color 60ms;
+  transition: background-color 60ms;
 
   &:active {
     background-color: ${i=>i.$secondaryColor};
